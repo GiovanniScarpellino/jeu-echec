@@ -2,7 +2,7 @@
 
 Cloner le dépôt : 
 
-Lien pour le clonage du dépôt : https://github.com/NeuroWine/ProjetTut.git
+Lien pour le clonage du dépôt (non-fonctionnel) : https://github.com/NeuroWine/ProjetTut.git
 
 Dans IDEA : File -> New -> Projet from Version Control -> Git
 
